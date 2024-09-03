@@ -13,6 +13,9 @@ Knows everything... except the language. Former math student, currently 'wrestli
 #### When All Options Are Wrong: Evaluating Large Language Model Robustness with Incorrect Multiple-Choice Options
 **Abstract:** This paper examines the ability of Large Language Models (LLMs) to identify multiple-choice questions that lack a correct answer, an essential aspect of assessing critical thinking skills. The study finds that LLM performance drops by 55% on average when dealing with such questions. Notably, the Llama 3.1-405B model shows a strong ability to detect the absence of a correct answer, even when instructed to select one. The findings stress the importance of prioritizing critical thinking over rigid instruction-following in LLMs, especially in educational contexts, and establish a benchmark for evaluating critical thinking in these models. The paper also emphasizes the need for better alignment to ensure the responsible use of LLMs in critical applications. 
 
+
+**Publication:** [research-gate](https://www.researchgate.net/publication/383497377_When_All_Options_Are_Wrong_Evaluating_Large_Language_Model_Robustness_with_Incorrect_Multiple-Choice_Options)
+
 ### Vision-Language Models
 #### Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models
 **Abstract:** This paper addresses the underexplored perspective-taking abilities of vision-language models (VLMs), which are crucial for real-world applications where these models must understand what parts of the environment others can or cannot observe. To investigate this, the authors introduce two manually prepared datasets, Isle-Bricks and Isle-Dots, and benchmark 12 widely used VLMs. The results show a significant performance drop when perspective-taking is required. The study emphasizes the importance of prioritizing perspective-taking in future VLM research and provides a benchmark for testing models on these datasets. 
