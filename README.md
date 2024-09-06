@@ -18,7 +18,7 @@ Knows everything... except the language. Former math student, currently 'wrestli
 
 ### Vision-Language Models
 #### Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models
-**Abstract:** This paper addresses the underexplored perspective-taking abilities of vision-language models (VLMs), which are crucial for real-world applications where these models must understand what parts of the environment others can or cannot observe. To investigate this, the authors introduce two manually prepared datasets, Isle-Bricks and Isle-Dots, and benchmark 12 widely used VLMs. The results show a significant performance drop when perspective-taking is required. The study emphasizes the importance of prioritizing perspective-taking in future VLM research and provides a benchmark for testing models on these datasets. 
+**Abstract:** This paper addresses the underexplored perspective-taking abilities of Vision-Language Models (VLMs), which are crucial for real-world applications where these models must understand what parts of the environment others can or cannot observe. To investigate this, the authors introduce two manually prepared datasets, Isle-Bricks and Isle-Dots, and benchmark 12 widely used VLMs. The results show a significant performance drop when perspective-taking is required. The study emphasizes the importance of prioritizing perspective-taking in future VLM research and provides a benchmark for testing models on these datasets. 
 
 **Project Website:** [Google Sites](https://sites.google.com/view/perspective-taking/strona-g%C5%82%C3%B3wna)
 
