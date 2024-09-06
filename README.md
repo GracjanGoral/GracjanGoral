@@ -14,7 +14,7 @@ Knows everything... except the language. Former math student, currently 'wrestli
 **Abstract:** This paper examines the ability of Large Language Models (LLMs) to identify multiple-choice questions that lack a correct answer, an essential aspect of assessing critical thinking skills. The study finds that LLM performance drops by 55% on average when dealing with such questions. Notably, the Llama 3.1-405B model shows a strong ability to detect the absence of a correct answer, even when instructed to select one. The findings stress the importance of prioritizing critical thinking over rigid instruction-following in LLMs, especially in educational contexts, and establish a benchmark for evaluating critical thinking in these models. The paper also emphasizes the need for better alignment to ensure the responsible use of LLMs in critical applications. 
 
 
-**Publication:** [research-gate](https://www.researchgate.net/publication/383497377_When_All_Options_Are_Wrong_Evaluating_Large_Language_Model_Robustness_with_Incorrect_Multiple-Choice_Options)
+**Publication:** [arXiv](https://www.researchgate.net/publication/383497377_When_All_Options_Are_Wrong_Evaluating_Large_Language_Model_Robustness_with_Incorrect_Multiple-Choice_Options](https://arxiv.org/abs/2409.00113)
 
 ### Vision-Language Models
 #### Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models
