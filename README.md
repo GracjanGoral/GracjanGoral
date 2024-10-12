@@ -12,7 +12,7 @@ Knows everything… except the language. Former math student, now exploring the 
 ---
 
 ### **VLMs**
-**Title:** *Seeing Through Their Eyes*  
+**Title:** *Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models*  
 **Abstract:** Investigates VLMs' perspective-taking abilities, benchmarking 12 models.  
 **Publication:** [arXiv](https://www.arxiv.org/abs/2409.12969)  
 **Project Website:** [Google Sites](https://sites.google.com/view/perspective-taking/strona-g%C5%82%C3%B3wna)  
@@ -20,10 +20,10 @@ Knows everything… except the language. Former math student, now exploring the 
 ---
 
 ### **Planning**
-**Title:** *What Matters in Hierarchical Search*  
-**Abstract:** Analyzes subgoal-planning effectiveness in combinatorial reasoning problems. 
+**Title:** *What Matters in Hierarchical Search for Combinatorial Reasoning Problems?*  
+**Abstract:** Analyzes subgoal-planning effectiveness in combinatorial reasoning problems.  
 **Publication:** [arXiv](https://arxiv.org/abs/2406.03361)  
-**Project Website:**   
+**Project Website:** Coming soon
 
 ---
 
