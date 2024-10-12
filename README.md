@@ -21,7 +21,7 @@ Knows everything… except the language. Former math student, now exploring the 
 
 ### **Planning**
 **Title:** *What Matters in Hierarchical Search*  
-**Abstract:** Analyzes subgoal-planning effectiveness in combinatorial reasoning, introducing a new evaluation framework.  
+**Abstract:** Analyzes subgoal-planning effectiveness in combinatorial reasoning problems. 
 **Publication:** [arXiv](https://arxiv.org/abs/2406.03361)  
 **Project Website:**   
 
