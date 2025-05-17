@@ -8,7 +8,7 @@ Knows everything… except the language. Former math student, now exploring the 
 **Abstract:** Explores LLMs' capability to detect incorrect multiple-choice options, revealing a 55% performance drop.  
 **Publication:** [arXiv](https://arxiv.org/abs/2409.00113)  
 **Project Website:** [Google Sites](https://sites.google.com/view/reflective-jugment/strona-g%C5%82%C3%B3wna)  
-**Workshops:** Accepted in The 63rd Annual Meeting of the Association for Computational Linguistics.
+**Conference:** Accepted in The 63rd Annual Meeting of the Association for Computational Linguistics.
 
 ---
 
